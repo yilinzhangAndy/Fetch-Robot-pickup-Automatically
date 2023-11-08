@@ -1,6 +1,6 @@
 # Fetch-Robot-pickup-Automatically
 <h1 align="center">
-  <img src="image/picture1.png"><br/>Fetch-Robot-pickup-Automatically
+  <img src="image/Picture1.png"><br/>Fetch-Robot-pickup-Automatically
 </h1>
 
 <h4 align="center">
