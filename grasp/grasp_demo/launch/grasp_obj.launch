@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>	
+
+	<!--start server -->
+	<node pkg="grasp_demo" type="obj_grasp.py" name= "obj_grasp" ns="my_gen3" output="screen"/>
+
+</launch>
