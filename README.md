@@ -10,24 +10,20 @@
   <a href="https://wiki.ros.org/noetic"><img src="https://img.shields.io/badge/ROS-Noetic-blue.svg"></a>
 
 
+
+
+<br/>
+
+<img src="https://github.com/yilinzhangAndy/Fetch-Robot-pickup-Automatically/blob/main/image/pickup.gif" width="40%" /> 
 </div>
 
-<div align="center">
-  <a href="#description"><b>Description</b></a> |
-  <a href="#features"><b>Features</b></a> |
-  <a href="#requirements"><b>Requirements</b></a> |
-  <a href="#installation"><b>Installation</b></a> |
-  <a href="#usage"><b>Usage</b></a>
-  
-</div>
+## Darknet_Ros Package
 
 <br/>
 
 <div align="center">
-  <img src="image/labeldog.png" width="70%">
+  <img src="image/Yolo.jpg" width="30%">
 </div>
-
-## Darknet_Ros Package
 
 YOLO in ROS:
 
@@ -39,7 +35,6 @@ Functionality:
 The package typically includes nodes that can subscribe to image data from ROS topics (usually from a camera), process this data using YOLO for object detection, and then publish the results.
 The results might include the types of objects detected, their bounding box coordinates in the image, and possibly their class probabilities.
 
-<img src="https://github.com/yilinzhangAndy/Label-Me/blob/main/image/doggif.gif" width="40%" /> 
 
 
 ## TransformBroadcaster File
@@ -198,6 +193,6 @@ The node then enters a spin state, waiting for service calls.
 
 This script is an excellent example of how ROS integrates various subsystems like action servers, services, and navigation stacks to enable autonomous navigation in robots. It allows other components in a ROS-enabled robot to make use of the move_base functionality through a simple service interface, abstracting the complexities of path planning and control.
 
-
+<img src="https://github.com/yilinzhangAndy/Fetch-Robot-pickup-Automatically/blob/main/image/pickup.gif" width="40%" /> 
 
 # Thank you
