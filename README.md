@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://github.com/yilinzhangAndy/Fetch-Robot-pickup-Automatically/blob/main/image/pickup.gif" width="40%" /> 
+<img src="https://github.com/yilinzhangAndy/Fetch-Robot-pickup-Automatically/blob/main/image/pickup 1.gif" width="40%" /> 
 </div>
 
 ## Darknet_Ros Package
@@ -193,6 +193,6 @@ The node then enters a spin state, waiting for service calls.
 
 This script is an excellent example of how ROS integrates various subsystems like action servers, services, and navigation stacks to enable autonomous navigation in robots. It allows other components in a ROS-enabled robot to make use of the move_base functionality through a simple service interface, abstracting the complexities of path planning and control.
 
-<img src="https://github.com/yilinzhangAndy/Fetch-Robot-pickup-Automatically/blob/main/image/pickup.gif" width="40%" /> 
+<img src="https://github.com/yilinzhangAndy/Fetch-Robot-pickup-Automatically/blob/main/image/pickup 1.gif" width="40%" /> 
 
 # Thank you
