@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://github.com/yilinzhangAndy/Fetch-Robot-pickup-Automatically/blob/main/image/pickup 1.gif" width="40%" /> 
+<img src="https://github.com/yilinzhangAndy/Fetch-Robot-pickup-Automatically/blob/main/image/pickupgit.gif" width="40%" /> 
 </div>
 
 ## Darknet_Ros Package
